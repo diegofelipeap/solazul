@@ -1,0 +1,45 @@
+
+/*Salvar projeto, estudar e divulgar com equipe */
+
+body {
+
+    background-color:#ADD8E6;
+    display: block;
+    width: 100vw;
+    height: 100vh;
+}
+
+details {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 15px;
+    cursor:pointer;
+
+}
+.autist {
+    justify-content: center;
+    margin: 8px;
+    width: 300px;
+    height: 300px;
+    border-radius: 50px;
+
+}
+
+
+.link1 {
+    
+  
+    background-color: aliceblue;
+    padding: 1px;
+    color: aqua;
+
+}
+
+.link2 {
+
+ 
+    background-color: aliceblue;
+    padding: 1px;
+    color: aqua;
+    border: 8px;
+
+}
